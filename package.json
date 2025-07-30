@@ -1,0 +1,23 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "This repo holds my Codewars kata solutions, organized by difficulty and language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Don-Doricent/codewars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Don-Doricent/codewars/issues"
+  },
+  "homepage": "https://github.com/Don-Doricent/codewars#readme",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
